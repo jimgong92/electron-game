@@ -2,7 +2,7 @@
   "name": "electron-game",
   "version": "0.1.0",
   "description": "TBD game built in electronJS",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "mocha test"
   },
